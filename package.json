@@ -1,0 +1,16 @@
+{
+  "name": "creator-digest",
+  "version": "0.0",
+  "scripts": {
+    "dev": "moose-cli dev",
+    "moose": "moose-cli",
+    "build": "moose-cli build --docker"
+  },
+  "dependencies": {
+    "@514labs/moose-lib": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@514labs/moose-cli": "latest"
+  }
+}
